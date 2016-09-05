@@ -27,6 +27,11 @@ and an observation of the average value of each measurement.
 
 First you need to have the Samsung data and set your working directory to that folder.
 
+Then make sure you save the run_analysis.R script in the same folder. 
+
+Open R and type source("run_analysis.R"). Magic!
+
+
 The following can be found in the CodeBook.md as well.
 
 There are 5 steps in the code:
